@@ -1,0 +1,20 @@
+{
+  "name": "facets",
+  "version": "1.0.0",
+  "description": "The facets project contains two visualizations for understanding and analyzing machine learning datasets: Facets Overview and Facets Dive.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sisyphus235/polymerElement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sisyphus235/polymerElement/issues"
+  },
+  "homepage": "https://github.com/Sisyphus235/polymerElement#readme"
+}
